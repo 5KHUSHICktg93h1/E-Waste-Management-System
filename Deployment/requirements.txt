@@ -1,6 +1,5 @@
-streamlit
-tensorflow
-keras
-numpy
-pillow 
+streamlit==1.45.1
+tensorflow-cpu==2.16.2
+numpy<2
+pillow
 urllib3
